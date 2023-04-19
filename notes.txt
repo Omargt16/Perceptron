@@ -1,0 +1,1 @@
+https://towardsdatascience.com/implementing-an-efficient-generalised-kernel-perceptron-in-pytorch-9e9fa6b30761

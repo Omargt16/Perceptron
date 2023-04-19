@@ -1,0 +1,9 @@
+.carousel {
+    width: 300px;
+    height: 250px;
+}
+
+.row-cols-3 img {
+    width: 300px;
+    height: 300px;
+}
